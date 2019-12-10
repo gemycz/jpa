@@ -21,7 +21,7 @@ public class MainApp {
 			System.out.println("2. Buscar Cliente");
 			System.out.println("3. Actualizar Cliente");
 			System.out.println("4. Eliminar Cliente");
-			System.out.println("5. Salir");
+			System.out.println("5. Salir del programa");
 			System.out.println("Elegir una opcion: ");
 
 			opcion = scanner.nextInt();
