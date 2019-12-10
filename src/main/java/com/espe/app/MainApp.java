@@ -17,7 +17,7 @@ public class MainApp {
 		EntityManager entity = JPAUtil.getEntityManagerFactory().createEntityManager();
 		while (opcion != 5) {
 
-			System.out.println("1. Crear Cliente");
+			System.out.println("1. Agregar Cliente");
 			System.out.println("2. Buscar Cliente");
 			System.out.println("3. Actualizar Cliente");
 			System.out.println("4. Eliminar Cliente");
